@@ -5,7 +5,7 @@
 • Project Name:
 Machine Learning June Minor Project
 • Project Description:
-Perform classification analysis to predict how many people survived the titanic disaster 
+Perform classification analysis to predict how many people survived the titanic disaster
 using Logistic regression for the given dataset. 
 The dataset can be downloaded from the below given link. 
 https://www.kaggle.com/competitions/titanic/data?select=train.csv 
